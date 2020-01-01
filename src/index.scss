@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+// varibles
+$primaryWhite: #fff;
+$primaryPerple: #800080;
+$primaryGrey: #f5f9fa;
+$primaryBlack: #17202a;
+$primaryLightBlue: #fcfdfe;
+$primaryOrange: rgb(223, 130, 9);
+$primaryRed: rgb(238, 26, 26);
+$primaryYellow: #f4d03f;
+
+body {
+  background: $primaryWhite;
+  color: $primaryBlack;
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
+}
