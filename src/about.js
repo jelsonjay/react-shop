@@ -9,7 +9,7 @@ function About() {
       <div class="row">
         <div class="column">
           <div class="card">
-            <h3>Produt one</h3>
+            <h3>Products one</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Dignissimos sit sunt eos fuga. Laborum consequuntur dignissimos,
@@ -21,7 +21,7 @@ function About() {
 
         <div class="column">
           <div class="card">
-            <h3>Produt two</h3>
+            <h3>Products two</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Dignissimos sit sunt eos fuga. Laborum consequuntur dignissimos,
@@ -33,7 +33,7 @@ function About() {
 
         <div class="column">
           <div class="card">
-            <h3>Produt third</h3>
+            <h3>Products third</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Dignissimos sit sunt eos fuga. Laborum consequuntur dignissimos,
@@ -45,7 +45,7 @@ function About() {
 
         <div class="column">
           <div class="card">
-            <h3>Produt four</h3>
+            <h3>Products four</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Dignissimos sit sunt eos fuga. Laborum consequuntur dignissimos,
